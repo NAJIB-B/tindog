@@ -1,4 +1,4 @@
 # tindog
 Made with boostrap 
 # Demo
-https://najib-b.github.io/tindog/
+You can check out the demo here https://najib-b.github.io/tindog/
